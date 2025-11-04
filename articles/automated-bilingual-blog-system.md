@@ -5,7 +5,6 @@ type: "tech"
 topics: ["automation", "blog", "hugo", "cloudflare", "obsidian"]
 published: false
 ---
-
 ## はじめに：なぜこのシステムを作ったのか
 
 私は入社して9年間、AD/ADAS領域のエンジニアとして仕事をしてきました。専門性は蓄積されたものの、社外からは見えなかったり、グローバル市場での評価はゼロといったことをキャリアとしてリスクに感じていました。
