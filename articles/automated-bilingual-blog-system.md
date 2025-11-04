@@ -4,7 +4,7 @@ emoji: "⚙️"
 type: "tech"
 topics: ["automation", "blog", "hugo", "cloudflare", "obsidian"]
 published: false
-canonical_url: https://takuyaniioka.com/ja/posts/automated-bilingual-blog-system
+canonical: https://takuyaniioka.com/ja/posts/automated-bilingual-blog-system
 ---
 
 ## はじめに：なぜこのシステムを作ったのか
